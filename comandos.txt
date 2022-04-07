@@ -1,3 +1,6 @@
 working directory
 staging area
 remote repository
+
+
+prueba
